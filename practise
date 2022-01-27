@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter2</title>
+    <style>
+        *{
+            margin: 10px;
+            padding: 10px;
+        }
+        .good{
+            height: 15px;
+            width: 15;
+            background-color: rgb(155, 65, 49);
+            
+
+        }
+      
+    </style>
+    
+</head>
+<body>
+   <div class="good"></div>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam soluta, non distinctio animi quo ut, consectetur architecto facilis dolore officia qui, voluptates perspiciatis quasi explicabo fugit nobis assumenda beatae delectus.
+        
+</body>
+</html>
